@@ -50,4 +50,6 @@ Here are some examples of top companies that use S3 event triggering:
 
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/3bfec6ef-eedb-49f0-b682-6fc35867de44)
 
+![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/ef0d95df-f03b-40d3-9777-c0db4be366f0)
+
 
