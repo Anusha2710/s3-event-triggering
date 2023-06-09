@@ -26,7 +26,7 @@ Here are some examples of top companies that use S3 event triggering:
 
 ### Steps:
 
-- Goto terminal and clone the Github code and enter into te folders
+- Goto terminal and clone the Github code and enter into the folders
 
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/67f435cd-58e6-4915-8dd4-4ee18298ba14)
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/ba19a755-6586-4104-a77f-bf812cdf9526)
@@ -35,10 +35,10 @@ Here are some examples of top companies that use S3 event triggering:
 
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/fddf5929-de6c-42dc-bb7e-f65a2f505039)
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/e7c2c241-18de-49bd-9e57-8bc9576b5c64)
+![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/7f50e412-11d9-4db3-aff7-d8b6465da113)
 
 - Goto shell scripting do some changes like aws region, bucket name, email address.
-
-![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/7f50e412-11d9-4db3-aff7-d8b6465da113)
+- 
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/78761489-ec0b-49ed-9dab-eb19297612c4)
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/837e024a-39ff-48a3-9074-b931ae61b09b)
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/4b4e7852-8f76-4b53-a303-8e22ef4ebc84)
