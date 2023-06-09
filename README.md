@@ -47,8 +47,10 @@ Here are some examples of top companies that use S3 event triggering:
 
 - Lets execute the shell script now.
 
+- AWS region, s3 bucket name, lambda function name, role name, email address has been set.
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/31a09d8e-9e88-48a9-8d84-bc4399fe28e4)
 
+- IAM role has been created
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/fa84f018-5c6e-46ef-8c25-6fb068d1cd9b)
 
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/ef0d95df-f03b-40d3-9777-c0db4be366f0)
