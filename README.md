@@ -41,18 +41,13 @@ Here are some examples of top companies that use S3 event triggering:
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/95b6c8ef-30c0-468d-ad72-7d05958858e3)
 
 - Before executing script lets install some packages here,
+
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/9dccd179-8b0c-4f51-a435-7bb3e2df1e33)
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/e30ad820-29d3-41e2-97d2-7e94e5c5934f)
 
 - Lets execute the shell script now.
-![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/f6987fa1-4532-4857-adda-4a59a3c7d014)
-![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/be89105e-73cd-4d86-be41-f720d7dd006c)
-![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/106de765-737e-4e69-887d-634fd6b718e7)
-![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/2e5a4034-f33c-474d-8654-78925a2a8e8a)
-![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/a6367d3c-d62a-4828-b76e-c612bb7f4719)
-![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/ffde3858-4745-4e00-9637-e0f37f5da545)
-![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/9bfc6c9b-be4f-4d90-ae44-4c334ca5105e)
-![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/731eec9f-c96e-4863-a08d-2a1388f3da8a)
-![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/58be84b6-309e-4530-82cb-60a18e7d47d0)
+![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/31a09d8e-9e88-48a9-8d84-bc4399fe28e4)
+
+![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/3bfec6ef-eedb-49f0-b682-6fc35867de44)
 
 
