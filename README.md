@@ -29,10 +29,9 @@ Here are some examples of top companies that use S3 event triggering:
 - Goto terminal and clone the Github code and enter into the folders
 
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/67f435cd-58e6-4915-8dd4-4ee18298ba14)
-![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/ba19a755-6586-4104-a77f-bf812cdf9526)
+![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/88716a20-519f-4f50-a9a7-4aa3ea54c5be)
 
-
-- I'm using ubuntu EC2 server here to configure AWS lets install some packages and lets go inside folders
+- I'm using ubuntu EC2 server here to configure AWS lets install some packages
 
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/fddf5929-de6c-42dc-bb7e-f65a2f505039)
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/e7c2c241-18de-49bd-9e57-8bc9576b5c64)
