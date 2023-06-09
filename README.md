@@ -33,7 +33,7 @@ Here are some examples of top companies that use S3 event triggering:
 
 - After that go inside folders and goto shell scripting do some changes like aws region, bucket name, email address.
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/7f50e412-11d9-4db3-aff7-d8b6465da113)
-![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/2b2ba383-15f4-47fc-bcc7-38e59e56c8e5)
+![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/78761489-ec0b-49ed-9dab-eb19297612c4)
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/837e024a-39ff-48a3-9074-b931ae61b09b)
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/4b4e7852-8f76-4b53-a303-8e22ef4ebc84)
 ![image](https://github.com/Anusha2710/s3-event-triggering/assets/47424821/95b6c8ef-30c0-468d-ad72-7d05958858e3)
